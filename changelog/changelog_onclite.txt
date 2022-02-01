@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: STABLE
+Device: Redmi 7/Y3 (onclite)
+Device maintainer: Aditya Singh
+Android Version: 12
+
+=== 2022-02-01 ====
+- Security Patch : 05th Jan 2022
+- Based on android-12.0.0_r26
+- Initial OFFICIAL Build
+- SELinux Status Is Enforcing
+- Used Raven(Pixel 6 Pro) FP to pass safetynet
