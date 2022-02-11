@@ -4,6 +4,31 @@ Device: Realme C11/12 (RMX2185)
 Device maintainer: TechyMinati
 Android Version: 12
 
+=== 2022-02-11 ====
+- Security Patch : 05th Feb 2022
+- Based on android-12.0.0_r29
+- Build is user build
+- Build is signed with release-keys
+- Fix offline charging
+- Implemented DRE ( Dynamic RAM Expansion) in Tree
+- Use OpenGL as Default Rendering Engine
+- Fix rare imsinit crashes
+- Fix Camera Issues on some device using C.09
+- Update fastcharge firmware on boot for RMX2180
+- Enable WCG Mode
+- Define Physicsl Sensor Locations
+- Update AutoBrightness & Backlight values from realmeUI 2.0
+- Allow support of unprocessed audio
+- Use 64bit dex-oat
+- Use hintmanager for hwui
+- Update Powerprofile changes from realmeUi 2.0
+- Enable Natural & Color Boosted Color Modes
+- Allow device to transition colors efficiently
+- Many More Misc Changes
+
+
+-------------------------------------------------------------------------------------------------------------------
+
 === 2022-01-12 ====
 - Security Patch : 05th Jan 2022
 - Based on android-12.0.0_r26
