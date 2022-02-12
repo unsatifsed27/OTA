@@ -4,6 +4,14 @@ Device: Realme C2 (RMX1941)
 Device maintainer: Anoosragh
 Android Version: 12
 
+=== 2022-02-12 ====
+- Security Patch : 05th Feb 2022
+- Switch to skiaglthreaded renderthread backend
+- Use 64-bit dex2oat
+- Some minor improvements
+- Fixed status bar padding
+- Source side changes
+
 === 2022-01-27 ====
 - Security Patch : 05th Jan 2022
 - Based on android-12.0.0_r26
