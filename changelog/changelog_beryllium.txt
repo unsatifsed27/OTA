@@ -4,6 +4,17 @@ Device: Xiaomi POCO F1 (beryllium)
 Device maintainer: Sourav 
 Android Version: 12
 
+=== 2022-02-17 ====
+- Security Patch : 05th Feb 2022
+- Based on android-12.0.0_r29
+- Fixed color modes
+- Fixed thermal profile layout 
+- Switch To libperfmgr
+- Addressed Few Denials
+- Remove Some Useless Props
+- using hint manager for hwui
+- misc improvements
+
 === 2022-01-12 ====
 - Security Patch : 05th Jan 2022
 - Based on android-12.0.0_r26
@@ -12,3 +23,4 @@ Android Version: 12
 - User Build Type
 - SilverCore 10.6 Default Kernel
 - Device Masked As Pixel 5 (Redfin)
+
