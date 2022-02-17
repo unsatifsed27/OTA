@@ -4,6 +4,17 @@ Device: Xiaomi Redmi Note 4/4x (mido)
 Device maintainer: Alone0316
 Android Version: 12
 
+==== 2022-02-17 ====
+- Security Patch: 5 Feb 2022
+- Upstreamed kernel to 4.9.301
+- Merge tag 'LA.UM.10.6.2.r1-01100-89xx.0' of https://source.codeaurora.org/quic/la/kernel/msm-4.9
+- Update wcnss_service from LA.UM.9.6.3.r1-04400-89xx.0
+- Update Time/PowerOffAlarm/Per.Mgr from LA.UM.9.6.3.r1-04400-89xx.0
+- Update msm_irqbalance from LA.UM.9.6.2.r1-04200-89xx.0
+- Update perf blobs from LA.UM.8.6.2.r1-08600-89xx.0
+- Remove whitelisted app left over
+- hal: Fix CFI errors
+
 ==== 2022-01-21 ====
 - Security Patch : 05th Jan 2022 
 - Based on android-12.0.0_r26 
