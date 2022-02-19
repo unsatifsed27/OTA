@@ -4,6 +4,34 @@ Device: Xiaomi Mi CC9 Pro/Note 10
 Device maintainer: alibei
 Android Version: 12
 
+=== 2022-02-19 ====
+- Security Patch : 05th Feb 2022
+- Improved SystemUI jitter
+- Updated system caf blobs from
+  LA.QSSI.12.0.r1-05800.01-qssi.0
+- Updated vendor caf blobs from
+  LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+- Updated ACDB loader blobs from
+  LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+- Updated IMS, QMI, RIL blobs from
+  sweet MIUI V13.0.2.0.SKFMIXM
+- Added back qcom WFD and imported blobs from
+  LA.QSSI.12.0.r1-05800.01-qssi.0 /
+  LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+- Updated other blobs from
+  tucana MIUI V12.5.9.0.RFDCNXM
+- Added Mi Sound Enhancer
+- Added Clear Speaker
+- Added DC-Dimming + QS
+- Added HBM + QS
+- Switched to SkiaGL Threaded
+- Configured power, volume and
+  fingerprint location
+- Kernel version upstreamed to 4.14.267
+- Kernel caf tag upstreamed to
+  LA.UM.9.1.r1-11600-SMxxx0.0
+- More under-the-hood improvements
+
 ==== 2022-01-12 ====
 - Security Patch : 05th Jan 2022
 - CipherOS 2.1 - Based on Android 12.0
