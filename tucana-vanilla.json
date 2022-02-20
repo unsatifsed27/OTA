@@ -2,11 +2,11 @@
 "response": [
 {
  "datetime": "1642003421",
- "filename": "CipherOS-2.5-LYNX-cipher_tucana-20220219-1315-OFFICIAL-VANILLA.zip",
- "id": "30384e14e17b2a49809b2b061b546d2a",
+ "filename": "CipherOS-2.5-LYNX-cipher_tucana-20220220-1112-OFFICIAL-VANILLA.zip",
+ "id": "a8eb0f98cba298b8942485abff61ff3a",
  "romtype":"STABLE",
- "size": 1189906209,
- "url": "https://sourceforge.net/projects/cipheros/files/Cipher-2.x/LYNX/tucana/CipherOS-2.5-LYNX-cipher_tucana-20220219-1315-OFFICIAL-VANILLA.zip/download",
+ "size": 1189932279,
+ "url": "https://sourceforge.net/projects/cipheros/files/Cipher-2.x/LYNX/tucana/CipherOS-2.5-LYNX-cipher_tucana-20220220-1112-OFFICIAL-VANILLA.zip/download",
  "version": "2.5-LYNX"
 }
 ]

@@ -2,11 +2,11 @@
 "response": [
 {
  "datetime": "1641994506",
- "filename": "CipherOS-2.5-LYNX-cipher_tucana-20220219-1304-OFFICIAL-GAPPS.zip",
- "id": "a1708085be15aac28b4d49b7a90a6f39",
+ "filename": "CipherOS-2.5-LYNX-cipher_tucana-20220220-1104-OFFICIAL-GAPPS.zip",
+ "id": "0a5f3534a8c3b84f44af640465934442",
  "romtype":"STABLE",
- "size": 1515057044,
- "url": "https://sourceforge.net/projects/cipheros/files/Cipher-2.x/LYNX/tucana/CipherOS-2.5-LYNX-cipher_tucana-20220219-1304-OFFICIAL-GAPPS.zip/download",
+ "size": 1515066515,
+ "url": "https://sourceforge.net/projects/cipheros/files/Cipher-2.x/LYNX/tucana/CipherOS-2.5-LYNX-cipher_tucana-20220220-1104-OFFICIAL-GAPPS.zip/download",
  "version": "2.5-LYNX"
 }
 ]

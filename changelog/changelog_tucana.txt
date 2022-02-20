@@ -4,6 +4,9 @@ Device: Xiaomi Mi CC9 Pro/Note 10
 Device maintainer: alibei
 Android Version: 12
 
+=== 2022-02-20 ====
+- Fixed mic issue for some users
+
 === 2022-02-19 ====
 - Security Patch : 05th Feb 2022
 - Improved SystemUI jitter
