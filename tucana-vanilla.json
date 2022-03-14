@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1642003421",
- "filename": "CipherOS-2.5-LYNX-cipher_tucana-20220220-1112-OFFICIAL-VANILLA.zip",
- "id": "a8eb0f98cba298b8942485abff61ff3a",
+ "datetime": "1647285917",
+ "filename": "CipherOS-3.0-GRAVITY-cipher_tucana-20220314-2025-OFFICIAL-VANILLA.zip",
+ "id": "ad03daf41c41a5d9432d5124ffdd5b4b",
  "romtype":"STABLE",
- "size": 1189932279,
- "url": "https://sourceforge.net/projects/cipheros/files/Cipher-2.x/LYNX/tucana/CipherOS-2.5-LYNX-cipher_tucana-20220220-1112-OFFICIAL-VANILLA.zip/download",
- "version": "2.5-LYNX"
+ "size": 1250316559,
+ "url": "https://sourceforge.net/projects/cipheros/files/Cipher-3.x/GRAVITY/tucana/CipherOS-3.0-GRAVITY-cipher_tucana-20220314-2025-OFFICIAL-VANILLA.zip/download",
+ "version": "3.0-GRAVITY"
 }
 ]
 }

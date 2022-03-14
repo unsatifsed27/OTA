@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1641994506",
- "filename": "CipherOS-2.5-LYNX-cipher_tucana-20220220-1104-OFFICIAL-GAPPS.zip",
- "id": "0a5f3534a8c3b84f44af640465934442",
+ "datetime": "1647289924",
+ "filename": "CipherOS-3.0-GRAVITY-cipher_tucana-20220314-2132-OFFICIAL-GAPPS.zip",
+ "id": "b861d89a88e9b88494d80ce6ec52adfb",
  "romtype":"STABLE",
- "size": 1515066515,
- "url": "https://sourceforge.net/projects/cipheros/files/Cipher-2.x/LYNX/tucana/CipherOS-2.5-LYNX-cipher_tucana-20220220-1104-OFFICIAL-GAPPS.zip/download",
- "version": "2.5-LYNX"
+ "size": 1575973061,
+ "url": "https://sourceforge.net/projects/cipheros/files/Cipher-3.x/GRAVITY/tucana/CipherOS-3.0-GRAVITY-cipher_tucana-20220314-2132-OFFICIAL-GAPPS.zip/download",
+ "version": "3.0-GRAVITY"
 }
 ]
 }

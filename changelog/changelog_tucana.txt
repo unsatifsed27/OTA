@@ -2,7 +2,21 @@ Highlights & Device Specific Changes:
 Build type: STABLE
 Device: Xiaomi Mi CC9 Pro/Note 10
 Device maintainer: alibei
-Android Version: 12
+Android Version: 12L
+
+=== 2022-03-14 ====
+- Security Patch : 05th Mar 2022
+- CipherOS 3.0 - Based on Android 12L
+- Fixed some issues with GCam
+- Added support for metadata partition
+- Added developer GSI keys
+- Added full vendor/Adreno symlinks
+- Added full vendor/rfs symlinks
+- Updated build fingerprint from redfin A12L
+- Removed perf logspam
+- Kernel version upstreamed to 4.14.271
+- Kernel caf tag upstreamed to
+  LA.UM.9.1.r1-11700-SMxxx0.0
 
 === 2022-02-20 ====
 - Fixed mic issue for some users
