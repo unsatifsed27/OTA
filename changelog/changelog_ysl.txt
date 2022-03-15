@@ -4,6 +4,13 @@ Device: Redmi S2/Y2 (ysl)
 Device maintainer: Dhruv Chhura
 Android Version: 12
 
+=== 2022-03-15 ====
+- Kernel: Merged 4.9.306 into kernel
+- Kernel: Disabled some loggings
+- Update fp from Coral March A12L
+- Enable Always on display
+- Re-enable iorapd
+
 === 2022-02-13 ====
 - Merged 4.9.301 into kernel
 - Update fp from Redfin February 2022
