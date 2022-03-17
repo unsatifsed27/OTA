@@ -2,7 +2,31 @@ Highlights & Device Specific Changes:
 Build type: STABLE
 Device: Realme C2 (RMX1941)
 Device maintainer: Anoosragh
-Android Version: 12
+Android Version: 12L
+
+=== 2022-03-17 ====
+- Import recommended pm dex props 
+- Add support for one-handed mode
+- Use HintManager for HWUI 
+- Switch to skiaglthreaded renderthread backend 
+- Address some RealmeDirac denials
+- Update and rearrange overlays
+- Enable Freeform Multiwindow
+- Fix some offline charging denials
+- Drop some useless blobs
+- Enable stune boost for top-app 
+- Drop oppo/realme's self-init
+- Enforce android-S new launch debugfs restrictions 
+- Disable wallpaper scrolling
+- Boost stune on app launch 
+- Allow raising sched_boost to 6 levels 
+- Boost foreground to maximum when launching an app 
+- Drop updateble_apex
+- Set Window animation/transition scale to 50%
+- Disable bluetooth by default
+- Disable UI touch sounds by default 
+- Source side changes
+- Misc bug fixes
 
 === 2022-02-12 ====
 - Security Patch : 05th Feb 2022
