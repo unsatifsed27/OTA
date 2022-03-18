@@ -4,6 +4,30 @@ Device: Realme C3 (RMX2020)
 Device maintainer: Sarthak Roy
 Android Version: 12
 
+=== 2022-03-18 ====
+- Security Patch : 05th March 2022
+- Initial build A12.1 Build
+- Initial VNDK32 build
+- Kernel Upstreamed
+- Pixel 6 ported GPU adaptive power policies
+- Update DRM from Realme C25 Android 12 update
+- Update Audio from Realme C3 Android 11 update 
+- Update Sensors and Media from Realme C3 Android 10 A61 update
+- Uprev to Audio HAL to 6.0
+- Switch to OSS audio HAL service
+- Address denials
+- Build libxml2 from source
+- Add DT2W service so that we can use DT2W toggle from Settings -> Display -> Tap to Wake
+- Drop ImsInit
+- Uprev bluetooth audio HIDL impl to 2.1
+- Compile ramdisk fstab as a package
+- Address MTK Engineermode denies
+- Silence MDP logging
+- Set Window animation/transition scale to 50%
+- Added CABC Mode in RealmeParts
+- Fixed brightness
+- More
+
 === 2022-01-12 ====
 - Security Patch : 05th Jan 2022
 - Based on android-12.0.0_r26
