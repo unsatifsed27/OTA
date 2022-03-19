@@ -2,7 +2,19 @@ Highlights & Device Specific Changes:
 Build type: STABLE
 Device: Xiaomi POCO F1 (beryllium)
 Device maintainer: Sourav 
-Android Version: 12
+Android Version: 12L
+
+=== 2022-03-19 ====
+- Security Patch : 05th March 2022
+- Initial Build Android 12.1/12L
+- Update IMS RIL QMI CNE Blobs
+- Update Perf Stack
+- Switch To QTI PowerHAl and thermal service
+- Updated Adreno Blobs
+- Switch UI Renderer To SkiaVK
+- Update Dirac Preferences 
+- IR Face Unlock 
+- Address IMSdatadaemon logspam
 
 === 2022-02-17 ====
 - Security Patch : 05th Feb 2022
