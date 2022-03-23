@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: STABLE
+Device: Xiaomi Redmi Note 9 (merlinx)
+Device maintainer: pizzeria&AlanT59 
+Android Version: 12L
+
+=== 2022-03-23 ===
+- Security Patch: 05th March 2022
+- Initial Build of Android 12L
+- Gapps / Vanilla
+- SELinux Status: Enforcing
+- SafetyNet passes by default (Coral fingerprint)

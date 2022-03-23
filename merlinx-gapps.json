@@ -1,0 +1,13 @@
+{
+"response": [
+{
+ "datetime": "1647794065",
+ "filename": "CipherOS-3.0-GRAVITY-cipher_merlinx-20220323-1857-OFFICIAL-GAPPS.zip",
+ "id": "f5ea5e066e1d70243a784716d9f4e79e",
+ "romtype":"STABLE",
+ "size": "12536519141253651914",
+ "url": "https://master.dl.sourceforge.net/project/CipherOS/Cipher-3.x/GRAVITY/merlinx/CipherOS-3.0-GRAVITY-cipher_merlinx-20220323-1857-OFFICIAL-GAPPS.zip",
+ "version": "3.0-GRAVITY"
+}
+]
+}
