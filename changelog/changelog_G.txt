@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes: 
+Build type: STABLE 
+Device: 10or G (G)
+Device maintainer: kardebayan
+Android Version: 12L
+
+==== 2022-04-02 ====
+- Initial build
