@@ -1,3 +1,33 @@
+** CipherOS 3.0 Exodus **
+- Android Security Patch :
+ * 5th April 2022
+
+[Misc]
+* Bump to CipherOS 3.0 - Exodus
+
+[Security]
+* This Update Brings April 2022 Security Patch & fixes some known issues
+* Merged Tag android-12.1.0_r4
+
+[Optimization]
+* We've optimized our source even more , reduced debugging & fixed some known bugs.
+
+[System]
+* Introduce New GMS Package with Cipher SUW.
+* Added Back Icon Packs & Fonts .
+* Fixed Mis-aligned paddings in Settings App
+* Fixed an crash issue while opening fp Settings.
+* Minor Changes in Dark Mode UI
+* Optimize application info creation & minor fixes.
+* Synced APN Changes from LineageOS.
+
+[HomeScreen]
+* Themed Leftover icons
+* Implement Cipher Widget
+
+
+----------------------------------------------------------------------------------------------------------------
+
 ** CipherOS 2.5 Lynx **
 - Android Security Patch :
  * 5th February 2022
