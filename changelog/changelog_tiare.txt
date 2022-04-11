@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: STABLE
+Device: Redmi Go (tiare)
+Device maintainer: TechyMinati
+Android Version: 12L
+
+=== 2022-04-11
+- CipherOS 3.2 - Android 12.1/12L
+- Based on android-12.1.0_r4
+- Build is userdebug build
+- Build signed with release-keys
+- SELinux Enforcing
