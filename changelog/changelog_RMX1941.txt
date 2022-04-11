@@ -4,7 +4,28 @@ Device: Realme C2 (RMX1941)
 Device maintainer: Anoosragh
 Android Version: 12L
 
+=== 2022-04-11 ====
+- Security Patch : 05th April 2022
+- Introduce CABC mode in RealmeParts
+- Update build fp to Coral April'22th
+- Pin HOME App
+- Update power_profile from RMX2185
+- Update CameraGo
+- Drop deprecated items in power_profile
+- Use new APIs for status bar heights
+- Hide gps logs by default
+- Enable usb and skin temparature warnings
+- Drop ImsInit
+- Address some denials related to RealmeParts
+- Drop android.hardware.thermal Hals
+- Enable call recording for Google Dialer
+- Tune zram performance
+- set readahead_ahead_size=128 for system, vendor and data
+- Source side changes
+- Misc changes and fixes
+
 === 2022-03-17 ====
+- Security Patch : 05th March 2022
 - Import recommended pm dex props 
 - Add support for one-handed mode
 - Use HintManager for HWUI 

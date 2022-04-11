@@ -1,13 +1,13 @@
 {
 "response": [
 {
-"datetime": "1647488987",
-"filename": "CipherOS-3.0-GRAVITY-cipher_RMX1941-20220317-0349-OFFICIAL-GAPPS.zip",
-"id": "cfb3c4d343daa8992ae0bd67df4fdd3d",
+"datetime": "1649566136",
+"filename": "CipherOS-3.2-EXODUS-cipher_RMX1941-20220410-1021-OFFICIAL-GAPPS.zip",
+"id": "77376bbda26b9e5a48551adaaa825b6c",
 "romtype":"STABLE",
-"size": 1281913721,
-"url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/GRAVITY/RMX1941/CipherOS-3.0-GRAVITY-cipher_RMX1941-20220317-0349-OFFICIAL-GAPPS.zip",
-"version": "3.0-GRAVITY"
+"size": 1516284488,
+"url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/EXODUS/RMX1941/CipherOS-3.2-EXODUS-cipher_RMX1941-20220410-1021-OFFICIAL-GAPPS.zip",
+"version": "3.2-EXODUS"
 }
 ]
 }
