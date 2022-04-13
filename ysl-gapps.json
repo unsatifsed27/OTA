@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1647309708",
- "filename": "CipherOS-3.0-GRAVITY-cipher_ysl-20220315-1411-OFFICIAL-GAPPS.zip",
- "id": "d2fac3c9b23a5c562b2fb100804eaed8",
+ "datetime": "1649782165",
+ "filename": "CipherOS-3.2-EXODUS-cipher_ysl-20220413-0126-OFFICIAL-GAPPS.zip",
+ "id": "dcdabb3f6242e54835e1f5dc6db3de7c",
  "romtype":"STABLE",
- "size": "1139288991",
- "url": "https://master.dl.sourceforge.net/project/CipherOS/Cipher-3.x/GRAVITY/ysl/CipherOS-3.0-GRAVITY-cipher_ysl-20220315-1411-OFFICIAL-GAPPS.zip",
- "version": "3.0-GRAVITY"
+ "size": "1354878678",
+ "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/EXODUS/ysl/CipherOS-3.2-EXODUS-cipher_ysl-20220413-0126-OFFICIAL-GAPPS.zip",
+ "version": "3.2-EXODUS"
 }
 ]
 }

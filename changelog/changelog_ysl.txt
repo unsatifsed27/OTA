@@ -4,6 +4,15 @@ Device: Redmi S2/Y2 (ysl)
 Device maintainer: Dhruv Chhura
 Android Version: 12
 
+=== 2022-04-13 ====
+- Kernel: Merge 4.9.309 into kernel
+- Kernel: Merge caf tag LA.UM.10.6.2.r1-01200-89xx.0
+- Kernel: Enable and configure uclamp
+- Update build fp from coral
+- Disable TTS force stop warning
+- Enable call recording
+- Enabled rounded corners in windows
+
 === 2022-03-15 ====
 - Kernel: Merged 4.9.306 into kernel
 - Kernel: Disabled some loggings
