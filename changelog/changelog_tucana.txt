@@ -4,6 +4,16 @@ Device: Xiaomi Mi CC9 Pro/Note 10
 Device maintainer: alibei
 Android Version: 12L
 
+=== 2022-04-14 ====
+- Security Patch : 05th April 2022
+- Kernel version upstreamed to 4.14.275
+- Kernel caf tag upstreamed to
+  LA.UM.9.1.r1-11800-SMxxx0.0
+- Improved idle batttery live
+- Fixed GCam startup crash
+- Updated unpinned blobs from
+  tucana V13.0.1.0.RFDCNXM
+
 === 2022-03-14 ====
 - Security Patch : 05th Mar 2022
 - CipherOS 3.0 - Based on Android 12L

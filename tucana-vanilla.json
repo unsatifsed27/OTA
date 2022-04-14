@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1647285917",
- "filename": "CipherOS-3.0-GRAVITY-cipher_tucana-20220314-2025-OFFICIAL-VANILLA.zip",
- "id": "ad03daf41c41a5d9432d5124ffdd5b4b",
- "romtype":"STABLE",
- "size": 1250316559,
- "url": "https://sourceforge.net/projects/cipheros/files/Cipher-3.x/GRAVITY/tucana/CipherOS-3.0-GRAVITY-cipher_tucana-20220314-2025-OFFICIAL-VANILLA.zip/download",
- "version": "3.0-GRAVITY"
+ "datetime": "1649865751",
+ "filename": "CipherOS-3.2-EXODUS-cipher_tucana-20220413-1803-OFFICIAL-VANILLA.zip",
+ "id": "362c0fbf72ce6f0e0b226e9499ebf93e",
+ "romtype": "STABLE",
+ "size": "1247851779",
+ "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/EXODUS/tucana/CipherOS-3.2-EXODUS-cipher_tucana-20220413-1803-OFFICIAL-VANILLA.zip",
+ "version": "3.2-EXODUS"
 }
 ]
 }
