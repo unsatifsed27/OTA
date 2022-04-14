@@ -1,8 +1,18 @@
 Highlights & Device Specific Changes:
 Build type: STABLE
-Device: Realme C3 (RMX2020)
+Device: Realme C3/Narzo 10A (RMX2020)
 Device maintainer: Sarthak Roy
 Android Version: 12
+
+=== 2022-04-14 ====
+- Security Patch : 05th April 2022
+- Kernel Upstreamed
+- Avoid memory pressure on partitions
+- Updated Thermal from RMX2020 RMUI2.0
+- Nuke GPS debugging
+- Tune ZRAM performance
+- Setup fingerprint hal for egis properly and unify it with silead fp 
+- Drop HintManager for HWUI to fix regressions in A12L
 
 === 2022-03-18 ====
 - Security Patch : 05th March 2022

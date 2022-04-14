@@ -1,13 +1,13 @@
 {
     "response": [
     {
-     "datetime": "1647442199",
-     "filename": "CipherOS-3.0-GRAVITY-cipher_RMX2020-20220317-0050-OFFICIAL-VANILLA.zip",
-     "id": "b0bd74290313f481615a5c82e092c8ea",
-     "romtype":"STABLE",
-     "size": "999565790",
-     "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/GRAVITY/RMX2020/CipherOS-3.0-GRAVITY-cipher_RMX2020-20220317-0050-OFFICIAL-VANILLA.zip",
-     "version": "3.0-GRAVITY"
+     "datetime": "1649863388",
+     "filename": "CipherOS-3.2-EXODUS-cipher_RMX2020-20220413-1524-OFFICIAL-VANILLA.zip",
+     "id": "27d365ccf3477575fb6a72659151c280",
+     "romtype": "STABLE",
+     "size": "1007860557",
+     "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/EXODUS/RMX2020/CipherOS-3.2-EXODUS-cipher_RMX2020-20220413-1524-OFFICIAL-VANILLA.zip",
+     "version": "3.2-EXODUS"
     }
     ]
 }
