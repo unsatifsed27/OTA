@@ -4,6 +4,22 @@ Device: Realme C11/12 (RMX2185)
 Device maintainer: TechyMinati
 Android Version: 12L
 
+
+=== 2022-04-18
+- CipherOS 3.2 - Android 12.1/12L
+- Based on android-12.1.0_r4
+- Both Gapps & Vanilla Variants Added
+- Linux 4.19.130
+- Device Side Optimizations 
+- Sync Kernel changes from realme-kernel-oss
+- Build is user build
+- Safety net Passes by Default
+- Build signed with release-keys
+- Build is Encrypted
+- SELinux Enforcing
+- Thanks to G35 Beta testing team for bug reporting.
+
+
 === 2022-03--15
 - CipherOS 3.0 - Android 12.1/12L
 - Based on android-12.1.0_r1
