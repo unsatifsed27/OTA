@@ -4,6 +4,13 @@ Device: Xiaomi POCO F1 (beryllium)
 Device maintainer: Sourav 
 Android Version: 12L
 
+=== 2022-04-20 ===
+- Security Patch : 05th April 2022
+- Drop HintManager Props
+- Fix Some Gcam Mods Crashing
+- Drop Some Useless Props
+- Update Power Profile from Blueline
+
 === 2022-03-19 ====
 - Security Patch : 05th March 2022
 - Initial Build Android 12.1/12L

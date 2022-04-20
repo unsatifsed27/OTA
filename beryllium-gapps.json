@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1647350910",
- "filename": "CipherOS-3.0-GRAVITY-cipher_beryllium-20220315-1330-OFFICIAL-GAPPS.zip",
- "id": "19619f81d50c3386598937da767cf123",
+ "datetime": "1650362014",
+ "filename": "CipherOS-3.2-EXODUS-cipher_beryllium-20220419-0955-OFFICIAL-GAPPS.zip",
+ "id": "3cb2e029b00354b391b2347d449d1a5c",
  "romtype":"STABLE",
- "size": 1306485174,
- "url": "https://sourceforge.net/projects/cipheros/files/Cipher-3.x/GRAVITY/beryllium/CipherOS-3.0-GRAVITY-cipher_beryllium-20220315-1330-OFFICIAL-GAPPS.zip/download",
- "version": "3.0-GRAVITY"
+ "size": "1593088208",
+ "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/EXODUS/beryllium/CipherOS-3.2-EXODUS-cipher_beryllium-20220419-0955-OFFICIAL-GAPPS.zip",
+ "version": "3.2-EXODUS"
 }
 ]
 }
