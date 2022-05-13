@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1649598837",
- "filename": "CipherOS-3.2-EXODUS-cipher_tiare-20220410-1050-OFFICIAL-VANILLA.zip",
- "id": "530a442d9dbce1dd427c4f870882fe8d",
+ "datetime": "1649598838",
+ "filename": "CipherOS-3.4-COMET-cipher_tiare-20220511-2231-OFFICIAL-VANILLA.zip",
+ "id": "13ac9a8b3a728cdc5123eb32589c7fc2e66c13a0",
  "romtype":"STABLE",
- "size": "862888624",
- "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/EXODUS/tiare/CipherOS-3.2-EXODUS-cipher_tiare-20220410-1050-OFFICIAL-VANILLA.zip",
- "version": "3.2-EXODUS"
+ "size": "1005050962",
+ "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/COMET/tiare/CipherOS-3.4-COMET-cipher_tiare-20220511-2231-OFFICIAL-VANILLA.zip",
+ "version": "3.4-COMET"
 }
 ]
 }

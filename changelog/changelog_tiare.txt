@@ -5,6 +5,14 @@ Device maintainer: TechyMinati
 Android Version: 12L
 
 === 2022-04-11
+- CipherOS 3.4 - COMET
+- Based on android-12.1.0_r5
+- Optimized ART
+- Ships MInatiKernel-Remnants
+- May Security Patch
+
+
+=== 2022-04-11
 - CipherOS 3.2 - Android 12.1/12L
 - Based on android-12.1.0_r4
 - Build is userdebug build
