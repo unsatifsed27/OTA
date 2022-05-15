@@ -1,13 +1,13 @@
 {
 "response": [
 {
-"datetime": "1649728466",
-"filename": "CipherOS-3.2-EXODUS-cipher_sweet-20220412-0154-OFFICIAL-GAPPS.zip",
-"id": "decc7f27bbcc8c0ba887bec6bb09da99",
+"datetime": "1652436014",
+"filename": "CipherOS-3.4-COMET-cipher_sweet-20220515-0823-OFFICIAL-GAPPS.zip",
+"id": "c36891fdb856657fbaca6d3296533df4",
 "romtype":"STABLE",
-"size": "1690102265",
-"url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/EXODUS/sweet/CipherOS-3.2-EXODUS-cipher_sweet-20220412-0154-OFFICIAL-GAPPS.zip",
-"version": "3.2-EXODUS"
+"size": "1791682090",
+"url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/COMET/sweet/CipherOS-3.4-COMET-cipher_sweet-20220515-0823-OFFICIAL-GAPPS.zip",
+"version": "3.4-COMET"
 }
 ]
 }
