@@ -4,6 +4,11 @@ Device: Redmi S2/Y2 (ysl)
 Device maintainer: Dhruv Chhura
 Android Version: 12
 
+=== 2022-05-15 ====
+- Security Patch : 05th May 2022
+- Merged 4.9.313 into kernel
+- Update build fp to may from redfin
+
 === 2022-04-13 ====
 - Kernel: Merge 4.9.309 into kernel
 - Kernel: Merge caf tag LA.UM.10.6.2.r1-01200-89xx.0
