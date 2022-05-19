@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1649865751",
- "filename": "CipherOS-3.2-EXODUS-cipher_tucana-20220413-1803-OFFICIAL-VANILLA.zip",
- "id": "362c0fbf72ce6f0e0b226e9499ebf93e",
- "romtype": "STABLE",
- "size": "1247851779",
- "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/EXODUS/tucana/CipherOS-3.2-EXODUS-cipher_tucana-20220413-1803-OFFICIAL-VANILLA.zip",
- "version": "3.2-EXODUS"
+ "datetime": "1652898118",
+ "filename": "CipherOS-3.4-COMET-cipher_tucana-20220518-2023-OFFICIAL-VANILLA.zip",
+ "id": "886858f9678b553415473824276d6632",
+ "romtype":"STABLE",
+ "size": "1355066706",
+ "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/COMET/tucana/CipherOS-3.4-COMET-cipher_tucana-20220518-2023-OFFICIAL-VANILLA.zip",
+ "version": "3.4-COMET"
 }
 ]
 }

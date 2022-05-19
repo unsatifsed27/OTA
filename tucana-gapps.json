@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1649864914",
- "filename": "CipherOS-3.2-EXODUS-cipher_tucana-20220413-1749-OFFICIAL-GAPPS.zip",
- "id": "04ae0a29e5fec7149cef8e2d5cea15e3",
- "romtype": "STABLE",
- "size": "1795390064",
- "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/EXODUS/tucana/CipherOS-3.2-EXODUS-cipher_tucana-20220413-1749-OFFICIAL-GAPPS.zip",
- "version": "3.2-EXODUS"
+ "datetime": "1652897339",
+ "filename": "CipherOS-3.4-COMET-cipher_tucana-20220518-2009-OFFICIAL-GAPPS.zip",
+ "id": "70774e88eda8adce4ab516fc6565f89b",
+ "romtype":"STABLE",
+ "size": "1873403075",
+ "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/COMET/tucana/CipherOS-3.4-COMET-cipher_tucana-20220518-2009-OFFICIAL-GAPPS.zip",
+ "version": "3.4-COMET"
 }
 ]
 }
