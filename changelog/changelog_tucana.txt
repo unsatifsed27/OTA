@@ -4,6 +4,11 @@ Device: Xiaomi Mi CC9 Pro/Note 10
 Device maintainer: alibei
 Android Version: 12L
 
+=== 2022-05-24 ====
+- Kernel version upstreamed to 4.14.280
+- Fixed system crash case
+- Added hide notch option
+
 === 2022-05-19 ====
 - Security Patch : 19th May 2022
 - Kernel version upstreamed to 4.14.278

@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1652897339",
- "filename": "CipherOS-3.4-COMET-cipher_tucana-20220518-2009-OFFICIAL-GAPPS.zip",
- "id": "70774e88eda8adce4ab516fc6565f89b",
+ "datetime": "1653326430",
+ "filename": "CipherOS-3.4-COMET-cipher_tucana-20220523-1921-OFFICIAL-GAPPS.zip",
+ "id": "e04a9eca49681cb3bc8f7503acfe91e8",
  "romtype":"STABLE",
- "size": "1873403075",
- "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/COMET/tucana/CipherOS-3.4-COMET-cipher_tucana-20220518-2009-OFFICIAL-GAPPS.zip",
+ "size": "1872540120",
+ "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/COMET/tucana/CipherOS-3.4-COMET-cipher_tucana-20220523-1921-OFFICIAL-GAPPS.zip",
  "version": "3.4-COMET"
 }
 ]
