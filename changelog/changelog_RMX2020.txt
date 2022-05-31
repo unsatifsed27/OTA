@@ -4,6 +4,31 @@ Device: Realme C3/Narzo 10A (RMX2020)
 Device maintainer: Sarthak Roy
 Android Version: 12
 
+=== 2022-05-31 ====
+- Security Patch : 05th May 2022
+- Switched to NEOLIT Arrow Kernel and Upstreamed
+- Update Vibrator from Nokia Wolverine
+- Enable EAS instead of HMP (EAS is better on power and perf)
+- Nuke useless OPPO craps and debugging
+- Remove iorapd prefetch props
+- Addressed few denials
+- Fixed VOLTE after reboot and airplane mode on off
+- Add config_tether_dhcp_range
+- Nuke Alipay blobs
+- Drop partition_permission & throttle scripts
+- Drop vendor.mediatek.hardware.log
+- F2FS support added 
+- Update AptX blobs from RMX2020 A11
+- Convert overlays into Runtime Resource Overlays.
+- Move ueventd.rc to /vendor/etc
+- Enable config_wifiDisplaySupportsProtectedBuffers
+- Import LMKD props from RMX3193 A12
+- Import Netflix prop from RMX2020 A11
+- Update Engineering blobs from RMX2020 A.61
+- Update IMS blobs from RMX2020 A.61
+- Modify Vulkan and OpenGL version to 2020-03-01
+- Prefer hwcodecs for thumbnail
+
 === 2022-04-14 ====
 - Security Patch : 05th April 2022
 - Kernel Upstreamed

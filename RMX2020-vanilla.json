@@ -1,13 +1,13 @@
 {
     "response": [
     {
-     "datetime": "1649863388",
-     "filename": "CipherOS-3.2-EXODUS-cipher_RMX2020-20220413-1524-OFFICIAL-VANILLA.zip",
-     "id": "27d365ccf3477575fb6a72659151c280",
-     "romtype": "STABLE",
-     "size": "1007860557",
-     "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/EXODUS/RMX2020/CipherOS-3.2-EXODUS-cipher_RMX2020-20220413-1524-OFFICIAL-VANILLA.zip",
-     "version": "3.2-EXODUS"
+     "datetime": "1653884715",
+     "filename": "CipherOS-3.4-COMET-cipher_RMX2020-20220530-0426-OFFICIAL-VANILLA.zip",
+     "id": "865b459afe5cc89c96df34ce2dcfdc66",
+     "romtype":"STABLE",
+     "size": "1115244521",
+     "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/COMET/RMX2020/CipherOS-3.4-COMET-cipher_RMX2020-20220530-0426-OFFICIAL-VANILLA.zip",
+     "version": "3.4-COMET"
     }
     ]
 }
