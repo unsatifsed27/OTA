@@ -1,3 +1,40 @@
+** CipherOS 3.6 Exodus **
+- Android Security Patch :
+ * 5th June 2022
+
+[Misc]
+* Bump to CipherOS 3.6 - Strike
+
+[Security]
+* This Update Brings June 2022 Security Patch & fixes some known issues
+* Merged Tag android-12.1.0_r8
+* QPR3 Release - SQ3A.220605.009.B1
+
+[Optimization]
+* We've optimized our source even more , reduced debugging & fixed some known bugs.
+
+[System]
+* Introduced GameSpace
+* Charging Ripple is Back!
+* Introducing Advanced Reboot Options
+* All New Music & Weather Application
+* Introducing all new navigation bar from Android 13 Beta 3.1
+* Disabled ART Debugging Globally.
+* New Re-designed A11-Like QS.
+* Fixed CTS profile failing on some devices.
+* Introduced Face Unlock Animation
+* Monet Tunables added to ThemePicker.
+* Optimize framework & minor fixes.
+
+[HomeScreen]
+* Minor fixups in CipherLauncher
+* Introduced Monet Tunables in ThemePicker
+
+[Build]
+* Bump to C36.SB.S.32.RL04
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 ** CipherOS 3.0 Exodus **
 - Android Security Patch :
  * 5th April 2022
