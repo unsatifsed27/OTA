@@ -4,6 +4,14 @@ Device: Redmi Note 10 Pro (sweet)
 Device maintainer: UnsatifsedError
 Android Version: 12L 
 
+==== 2022-06-18 ===
+- Quantum kernel 4.14.282
+- Build kernel with clang 14
+- Added Thermal Profile on DeviceSettings
+- Added Display Colors on DeviceSettings
+- Safetynet passed with magisk
+- Daniml3 Tree
+
 ==== 2022-05-15 ====
 - Vantom Kernel 4.14.276
 - Update Clang 14.0.7

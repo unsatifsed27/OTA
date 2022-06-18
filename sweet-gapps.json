@@ -1,13 +1,13 @@
 {
 "response": [
 {
-"datetime": "1652436014",
-"filename": "CipherOS-3.4-COMET-cipher_sweet-20220515-0823-OFFICIAL-GAPPS.zip",
-"id": "c36891fdb856657fbaca6d3296533df4",
+"datetime": "655560415",
+"filename": "CipherOS-3.6-STRIKE-cipher_sweet-20220618-1353-OFFICIAL-GAPPS.zip",
+"id": "a1910a64aa1f5ea6d2b06997f34dec3f",
 "romtype":"STABLE",
-"size": "1791682090",
-"url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/COMET/sweet/CipherOS-3.4-COMET-cipher_sweet-20220515-0823-OFFICIAL-GAPPS.zip",
-"version": "3.4-COMET"
+"size": "1825665534",
+"url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/STRIKE/sweet/CipherOS-3.6-STRIKE-cipher_sweet-20220618-1353-OFFICIAL-GAPPS.zip",
+"version": "3.6-STRIKE"
 }
 ]
 }
