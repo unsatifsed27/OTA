@@ -4,6 +4,12 @@ Device: Redmi Go (tiare)
 Device maintainer: TechyMinati
 Android Version: 12L
 
+
+=== 2022-06-18
+- CipherOS 3.6 - QPR3 Release
+- June Security
+- Upstreamed Kernel
+
 === 2022-04-11
 - CipherOS 3.4 - COMET
 - Based on android-12.1.0_r5

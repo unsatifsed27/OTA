@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1649598838",
- "filename": "CipherOS-3.4-COMET-cipher_tiare-20220511-2231-OFFICIAL-VANILLA.zip",
- "id": "13ac9a8b3a728cdc5123eb32589c7fc2e66c13a0",
+ "datetime": "1649598928",
+ "filename": "CipherOS-3.6-STRIKE-cipher_tiare-20220615-1610-OFFICIAL-VANILLA.zip",
+ "id": "13777b228e2d3692022502224b53ef3d",
  "romtype":"STABLE",
  "size": "1005050962",
- "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/COMET/tiare/CipherOS-3.4-COMET-cipher_tiare-20220511-2231-OFFICIAL-VANILLA.zip",
- "version": "3.4-COMET"
+ "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/STRIKE/tiare/CipherOS-3.6-STRIKE-cipher_tiare-20220615-1610-OFFICIAL-VANILLA.zip",
+ "version": "3.6-STRIKE"
 }
 ]
 }
