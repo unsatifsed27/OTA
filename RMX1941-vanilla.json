@@ -1,13 +1,13 @@
 {
-"response": [
-{
-"datetime": "1649559768",
-"filename": "CipherOS-3.2-EXODUS-cipher_RMX1941-20220410-0835-OFFICIAL-VANILLA.zip",
-"id": "cc4dcfc917ceba48d9324ef62c8a4756",
-"romtype":"STABLE",
-"size": 968129328,
-"url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/EXODUS/RMX1941/CipherOS-3.2-EXODUS-cipher_RMX1941-20220410-0835-OFFICIAL-VANILLA.zip",
-"version": "3.2-EXODUS"
-}
-]
+    "response": [
+    {
+        "datetime": "1655488784",
+        "filename": "CipherOS-3.6-STRIKE-cipher_RMX1941-20220619-1143-OFFICIAL-VANILLA.zip",
+        "id": "bc6c40202c0c24ae80463a3e9b700d84",
+        "romtype":"STABLE",
+        "size": 1181116006,
+        "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/STRIKE/RMX1941/CipherOS-3.6-STRIKE-cipher_RMX1941-20220619-1143-OFFICIAL-VANILLA.zip",
+        "version": "3.6-STRIKE"
+    }
+    ]
 }

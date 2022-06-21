@@ -1,8 +1,25 @@
 Highlights & Device Specific Changes:
 Build type: STABLE
 Device: Realme C2 (RMX1941)
-Device maintainer: Anoosragh
+Device maintainer: PSalik
 Android Version: 12L
+
+=== 2022-06-21 ====
+- Security Patch : 05th June 2022
+- Introduce CABC mode in RealmeParts
+- Checkout power_profile from RMX1941 C.57
+- Checkout prebuilts from RMX1941 C.57
+- Update Vibrator from Nokia Wolverine
+- Use new APIs for status bar heights
+- Enable EAS instead of HMP (EAS is better on power and perf)
+- Specify max wallpaper scale
+- Fix GPU hal crash
+- Address a few RealmeParts denials
+- Drop useless OPPO blobs and configs
+- Tune zram performance
+- set readahead_ahead_size=128 for system, vendor and data
+- Source side changes
+- Misc changes and fixes
 
 === 2022-04-11 ====
 - Security Patch : 05th April 2022
