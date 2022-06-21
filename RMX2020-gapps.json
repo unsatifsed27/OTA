@@ -1,13 +1,13 @@
 {
     "response": [
     {
-     "datetime": "1653927017",
-     "filename": "CipherOS-3.4-COMET-cipher_RMX2020-20220530-1611-OFFICIAL-GAPPS.zip",
-     "id": "8cdf131c11b1d1dab9f28f36aa3f5f16",
+     "datetime": "1655754370",
+     "filename": "CipherOS-3.6-STRIKE-cipher_RMX2020-20220620-1451-OFFICIAL-GAPPS.zip",
+     "id": "39efef68915d8c007c0a94f8112220de",
      "romtype":"STABLE",
-     "size": "1639138538",
-     "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/COMET/RMX2020/CipherOS-3.4-COMET-cipher_RMX2020-20220530-1611-OFFICIAL-GAPPS.zip",
-     "version": "3.4-COMET"
+     "size": "1652395463",
+     "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/STRIKE/RMX2020/CipherOS-3.6-STRIKE-cipher_RMX2020-20220620-1451-OFFICIAL-GAPPS.zip",
+     "version": "3.6-STRIKE"
     }
     ]
 }

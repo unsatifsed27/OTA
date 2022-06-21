@@ -4,6 +4,16 @@ Device: Realme C3/Narzo 10A (RMX2020)
 Device maintainer: Sarthak Roy
 Android Version: 12
 
+=== 2022-06-21 ====
+- Security Patch : 05th June 2022
+- Switched to NEOLIT Arrow Kernel and Upstreamed
+- Update VSYNC phase offsets from RMX2020 A11
+- Addressed Denials
+- Adapt for A12L QPR3 statusbar height API
+- Silence spammy logtags
+- Add in MTK APP TOUCH hints to INTERACTION hint
+- Add GPU scheduling mode change command
+
 === 2022-05-31 ====
 - Security Patch : 05th May 2022
 - Switched to NEOLIT Arrow Kernel and Upstreamed
