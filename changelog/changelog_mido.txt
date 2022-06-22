@@ -4,6 +4,10 @@ Device: Xiaomi Redmi Note 4/4x (mido)
 Device maintainer: Alone0316
 Android Version: 12
 
+==== 2022-06-21 ====
+- All the device side changes made in PixelOS
+- Upstreamed kernel with latest clo and google tag
+
 ==== 2022-02-17 ====
 - Security Patch: 5 Feb 2022
 - Upstreamed kernel to 4.9.301
