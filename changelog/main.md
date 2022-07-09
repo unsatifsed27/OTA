@@ -1,4 +1,36 @@
-** CipherOS 3.6 Exodus **
+
+** CipherOS 3.8 Nova **
+- Android Security Patch :
+ * 5th July 2022
+ * 
+[Misc]
+* Bump to CipherOS 3.8 - Nova
+* Last 12L release, GoodBye to Android 12.1
+
+[Security]
+* This Update Brings July 2022 Security Patch & fixes some known issues
+* Merged Tag android-12.1.0_r10
+
+[Optimization]
+* We've optimized our source even more , reduced debugging & fixed some known bugs.
+
+[System]
+* Disabled some more debugging globally
+* New Re-designed realmeUI-like Lockscreen.
+* Alot of General Fixes in frameworks
+* Fixed some issues with privacy indicators
+* Fixed some known NPEs
+
+[HomeScreen]
+* realmeUI-like recents overviews
+
+[Build]
+* Bump to C38.SB.S.32.RL05
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+** CipherOS 3.6 Strike **
 - Android Security Patch :
  * 5th June 2022
 
