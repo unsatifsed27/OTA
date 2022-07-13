@@ -4,6 +4,26 @@ Device: Realme C3/Narzo 10A (RMX2020)
 Device maintainer: Sarthak Roy
 Android Version: 12
 
+=== 2022-07-13 ====
+- Added Many new presets in RealmeDirac 
+- Make default scaling_governor schedutil
+- RealmeDirac: Add bass booster preset
+- Adjust zram write back policy
+- Added zram parameter
+- Drop HWUI_COMPILE_FOR_PERF
+- Drop Factory blobs
+- Kernel upstreamed
+- Add permissions for broadcast receiver
+- Include ffmpeg media codecs
+- Set vm swappiness to 60
+- Set zram to 55% as per Stock
+- Adjust ZRAM write back policy
+- Set vm direct_swappiness to 50
+- Remove unneeded TARGET_ENABLE_MEDIADRM_64
+- Address Denials
+- Remove GSI Keys
+- Disable MTK IO and touch boost (makes the heat and throttle)
+
 === 2022-06-21 ====
 - Security Patch : 05th June 2022
 - Switched to NEOLIT Arrow Kernel and Upstreamed

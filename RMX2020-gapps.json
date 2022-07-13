@@ -1,13 +1,13 @@
 {
     "response": [
     {
-     "datetime": "1655754370",
-     "filename": "CipherOS-3.6-STRIKE-cipher_RMX2020-20220620-1451-OFFICIAL-GAPPS.zip",
-     "id": "39efef68915d8c007c0a94f8112220de",
+     "datetime": "1657589057",
+     "filename": "CipherOS-3.8-NOVA-cipher_RMX2020-20220712-0325-OFFICIAL-GAPPS.zip",
+     "id": "770c3aa3c6a74f9c07c08bfac80ad919",
      "romtype":"STABLE",
-     "size": "1652395463",
-     "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/STRIKE/RMX2020/CipherOS-3.6-STRIKE-cipher_RMX2020-20220620-1451-OFFICIAL-GAPPS.zip",
-     "version": "3.6-STRIKE"
+     "size": "1657221371",
+     "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/NOVA/RMX2020/CipherOS-3.8-NOVA-cipher_RMX2020-20220712-0325-OFFICIAL-GAPPS.zip",
+     "version": "3.8-NOVA"
     }
     ]
 }

@@ -1,13 +1,13 @@
 {
     "response": [
     {
-     "datetime": "1655737718",
-     "filename": "CipherOS-3.6-STRIKE-cipher_RMX2020-20220620-1011-OFFICIAL-VANILLA.zip",
-     "id": "65b60dd68727da3ebe2467ebc0082ffa",
+     "datetime": "1657583182",
+     "filename": "CipherOS-3.8-NOVA-cipher_RMX2020-20220712-0147-OFFICIAL-VANILLA.zip",
+     "id": "c3ce16325e5196320ba271566f0df575",
      "romtype":"STABLE",
-     "size": "1128134135",
-     "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/STRIKE/RMX2020/CipherOS-3.6-STRIKE-cipher_RMX2020-20220620-1011-OFFICIAL-VANILLA.zip",
-     "version": "3.6-STRIKE"
+     "size": "1133572042",
+     "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/NOVA/RMX2020/CipherOS-3.8-NOVA-cipher_RMX2020-20220712-0147-OFFICIAL-VANILLA.zip",
+     "version": "3.8-NOVA"
     }
     ]
 }
