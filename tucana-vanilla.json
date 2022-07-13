@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1653328749",
- "filename": "CipherOS-3.4-COMET-cipher_tucana-20220523-1959-OFFICIAL-VANILLA.zip",
- "id": "981c543fc8feba41b66ceb5d84dcef21",
+ "datetime": "1657724358",
+ "filename": "CipherOS-3.8-NOVA-cipher_tucana-20220713-1700-OFFICIAL-VANILLA.zip",
+ "id": "6f9d9b043322663af0d3702f499416e0",
  "romtype":"STABLE",
- "size": "1353785062",
- "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/COMET/tucana/CipherOS-3.4-COMET-cipher_tucana-20220523-1959-OFFICIAL-VANILLA.zip",
- "version": "3.4-COMET"
+ "size": "1409195820",
+ "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/NOVA/tucana/CipherOS-3.8-NOVA-cipher_tucana-20220713-1700-OFFICIAL-VANILLA.zip",
+ "version": "3.8-NOVA"
 }
 ]
 }

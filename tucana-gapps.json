@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1653326430",
- "filename": "CipherOS-3.4-COMET-cipher_tucana-20220523-1921-OFFICIAL-GAPPS.zip",
- "id": "e04a9eca49681cb3bc8f7503acfe91e8",
+ "datetime": "1657723349",
+ "filename": "CipherOS-3.8-NOVA-cipher_tucana-20220713-1642-OFFICIAL-GAPPS.zip",
+ "id": "a42cb9eb19d27270a326aa300770f7c7",
  "romtype":"STABLE",
- "size": "1872540120",
- "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/COMET/tucana/CipherOS-3.4-COMET-cipher_tucana-20220523-1921-OFFICIAL-GAPPS.zip",
- "version": "3.4-COMET"
+ "size": "1925277334",
+ "url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/NOVA/tucana/CipherOS-3.8-NOVA-cipher_tucana-20220713-1642-OFFICIAL-GAPPS.zip",
+ "version": "3.8-NOVA"
 }
 ]
 }
