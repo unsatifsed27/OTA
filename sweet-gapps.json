@@ -1,13 +1,13 @@
 {
 "response": [
 {
-"datetime": "655560415",
-"filename": "CipherOS-3.6-STRIKE-cipher_sweet-20220618-1353-OFFICIAL-GAPPS.zip",
-"id": "a1910a64aa1f5ea6d2b06997f34dec3f",
+"datetime": "1658082902",
+"filename": "CipherOS-3.8-NOVA-cipher_sweet-20220718-0005-OFFICIAL-GAPPS.zip",
+"id": "d370268c6ba8b838537cae33ba7856bc",
 "romtype":"STABLE",
 "size": "1825665534",
-"url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/STRIKE/sweet/CipherOS-3.6-STRIKE-cipher_sweet-20220618-1353-OFFICIAL-GAPPS.zip",
-"version": "3.6-STRIKE"
+"url": "https://master.dl.sourceforge.net/project/cipheros/Cipher-3.x/NOVA/sweet/CipherOS-3.8-NOVA-cipher_sweet-20220718-0005-OFFICIAL-GAPPS.zip",
+"version": "3.8-NOVA"
 }
 ]
 }

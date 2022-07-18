@@ -4,6 +4,15 @@ Device: Redmi Note 10 Pro (sweet)
 Device maintainer: UnsatifsedError
 Android Version: 12L 
 
+==== 2022-07-18 ===
+- Switch to Vanton kernel
+- Switch to Aryan tre
+- Added Dolby Atmos
+- Update Blobs 13.0.10.0
+- Fix module miui camera
+- f2fs compression
+- Graphene Camera Default
+
 ==== 2022-06-18 ===
 - Quantum kernel 4.14.282
 - Build kernel with clang 14
